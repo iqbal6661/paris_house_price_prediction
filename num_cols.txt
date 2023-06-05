@@ -1,0 +1,1 @@
+["squareMeters", "numberOfRooms", "floors", "cityPartRange", "numPrevOwners", "basement", "attic", "garage", "hasGuestRoom"]
